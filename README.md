@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ASPSMS is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.aspsms.com/
+ASPSMS provides a global SMS gateway service for businesses, offering multiple integration options including JSON REST, SOAP, HTTP POST, SMTP, and email‑to‑SMS. The platform supports two‑factor authentication, bulk messaging, and two‑way SMS, with no licence, setup, or monthly fees. Documentation, pricing, and developer resources are available in several languages, and the service includes a web portal for managing credits and messages.
+
+**Areas:** SMS · Messaging · API · Communications · Business
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.aspsms.com/)
+- [Documentation](https://www.aspsms.com/en/documentation/)
+- [Pricing](https://www.aspsms.com/en/prices/)
+- [Support](https://www.aspsms.com/en/support/)
+- [Blog](https://www.aspsms.com/en/Blog/)
+- [Privacy policy](https://www.aspsms.com/en/privacy/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/aspsms/](https://apis.io/providers/aspsms/).
